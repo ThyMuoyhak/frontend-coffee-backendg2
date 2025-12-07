@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8000/api/v1';
+const API_BASE_URL = 'https://coffee-backend-1.onrender.com/api/v1';
 
 // Fetch all coffee products
 export const fetchCoffeeProducts = async () => {
